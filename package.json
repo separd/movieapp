@@ -13,8 +13,11 @@
   "license": "ISC",
   "dependencies": {
     "arangojs": "^5.0.3",
+    "bluebird": "^3.4.6",
     "credential": "^1.0.0",
     "debug": "^2.2.0",
+    "fb": "^1.1.1",
+    "googleapis": "^14.1.0",
     "joi": "^9.2.0",
     "jwt-simple": "^0.5.0",
     "koa": "^1.2.4",
