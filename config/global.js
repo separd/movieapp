@@ -8,7 +8,7 @@ const config = {
     databaseName: process.env.ARANGO_DBNAME || 'moviedb'
   },
   token: {
-    secret: process.env.TOKEN_SECRET || ''
+    secret: process.env.TOKEN_SECRET || 'dsfhjsgdfkjshgd'
   }
 }
 
